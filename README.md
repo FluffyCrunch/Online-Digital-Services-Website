@@ -123,7 +123,7 @@ iitiancraft/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/FluffyCrunch/Online-Digital-Services-Website.git
    cd iitiancraft
    ```
 
@@ -297,18 +297,14 @@ Deploy to platforms like:
 
 Ensure environment variables are set in your hosting platform.
 
-## 📄 License
-
-ISC
-
 ## 👥 Author
 
-IITIAN CRAFT
+FluffyCrunch
 
 ## 📞 Contact
 
 - Email: info@iitiancraft.com
-- Website: [Coming Soon]
+- Website: https://iitiancraft.com/
 
 ---
 
